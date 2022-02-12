@@ -1,0 +1,16 @@
+.header{
+    min-height: 60px;
+    display: flex;
+    background-color:aliceblue;
+    position: sticky;
+    top:0;
+    z-index:100;
+}
+.cartel{
+    min-height: 0px;
+    display: flex;
+    background-color:aliceblue;
+    
+    top:0;
+    z-index:100;
+}
